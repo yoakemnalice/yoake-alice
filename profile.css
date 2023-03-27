@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+h1{
+color:palevioletred;
+font-size:60px;
+
+}
+
+body{
+text-align:center;
+background-image:url("19ellyri529G_TP_V.jpg");
+background-color:rgba(255,255,255,0.7);
+background-blend-mode:lighten;
+
+}
+
+ul{
+    list-style:none;
+    padding:0;
+}
+
+.mgr-10{
+    margin-right: 10px;
+}
